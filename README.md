@@ -5,3 +5,4 @@ git push test
 add用
 動作確認用のメモです.
 wawawa
+ログアウト機能を実装
